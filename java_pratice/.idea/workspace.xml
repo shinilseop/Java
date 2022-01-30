@@ -32,11 +32,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Pratice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.Pratice" />
+      <option name="MAIN_CLASS_NAME" value="chapter2.Pratice" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.*" />
+          <option name="PATTERN" value="chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
