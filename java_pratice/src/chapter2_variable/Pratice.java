@@ -1,4 +1,4 @@
-package chapter2;
+package chapter2_variable;
 
 public class Pratice {
     public static void main(String args[]){
@@ -86,7 +86,5 @@ public class Pratice {
         System.out.printf("f =%20.18f\n", f);
         System.out.printf("d =%20.18f\n", d);
         System.out.printf("d2 =%20.18f\n", d2);
-
-
     }
 }
