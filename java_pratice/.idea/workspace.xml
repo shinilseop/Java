@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c960c4c0-4e09-4a75-a6b9-4f026e655a30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter3_operator/Exercise3_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3_operator/Exercise3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3_operator/Exercise3_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3_operator/Exercise3_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3_operator/Exercise3_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3_operator/Exercise3_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3_operator/Exercise3_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3_operator/Exercise3_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3_operator/Exercise3_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_pratice/chapter2/Pratice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/Pratice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2_variable/Pratice.java" afterDir="false" />
-    </list>
+    <list default="true" id="c960c4c0-4e09-4a75-a6b9-4f026e655a30" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,14 +31,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Exercise3_10">
-    <configuration name="Exercise3_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3_operator.Exercise3_10" />
+  <component name="RunManager" selected="Application.Exercise4_15">
+    <configuration name="Exercise4_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4_if_for.Exercise4_11" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter3_operator.*" />
+          <option name="PATTERN" value="chapter4_if_for.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +47,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise3_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3_operator.Exercise3_6" />
+    <configuration name="Exercise4_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4_if_for.Exercise4_12" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter3_operator.*" />
+          <option name="PATTERN" value="chapter4_if_for.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise3_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3_operator.Exercise3_7" />
+    <configuration name="Exercise4_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4_if_for.Exercise4_13" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter3_operator.*" />
+          <option name="PATTERN" value="chapter4_if_for.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise3_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3_operator.Exercise3_8" />
+    <configuration name="Exercise4_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4_if_for.Exercise4_14" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter3_operator.*" />
+          <option name="PATTERN" value="chapter4_if_for.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise3_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3_operator.Exercise3_9" />
+    <configuration name="Exercise4_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4_if_for.Exercise4_15" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter3_operator.*" />
+          <option name="PATTERN" value="chapter4_if_for.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise3_10" />
-        <item itemvalue="Application.Exercise3_9" />
-        <item itemvalue="Application.Exercise3_8" />
-        <item itemvalue="Application.Exercise3_7" />
-        <item itemvalue="Application.Exercise3_6" />
+        <item itemvalue="Application.Exercise4_15" />
+        <item itemvalue="Application.Exercise4_14" />
+        <item itemvalue="Application.Exercise4_13" />
+        <item itemvalue="Application.Exercise4_12" />
+        <item itemvalue="Application.Exercise4_11" />
       </list>
     </recent_temporary>
   </component>
