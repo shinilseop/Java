@@ -17,6 +17,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -32,14 +40,31 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Exercise5_13">
-    <configuration name="Exercise5_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5_array.Exercise5_10" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter6_OOP1" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="move" />
+      <command value="Exercise6_1" />
+      <command value="Exercise6_2" />
+      <command value="Exercise6_4" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Exercise6_24">
+    <configuration name="Exercise6_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6_OOP1.Exercise6_20" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5_array.*" />
+          <option name="PATTERN" value="chapter6_OOP1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise5_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5_array.Exercise5_11" />
+    <configuration name="Exercise6_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6_OOP1.Exercise6_21" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5_array.*" />
+          <option name="PATTERN" value="chapter6_OOP1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise5_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5_array.Exercise5_12" />
+    <configuration name="Exercise6_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6_OOP1.Exercise6_22" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5_array.*" />
+          <option name="PATTERN" value="chapter6_OOP1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise5_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5_array.Exercise5_13" />
+    <configuration name="Exercise6_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6_OOP1.Exercise6_23" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5_array.*" />
+          <option name="PATTERN" value="chapter6_OOP1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise5_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5_array.Exercise5_9" />
+    <configuration name="Exercise6_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6_OOP1.Exercise6_24" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5_array.*" />
+          <option name="PATTERN" value="chapter6_OOP1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise5_13" />
-        <item itemvalue="Application.Exercise5_12" />
-        <item itemvalue="Application.Exercise5_11" />
-        <item itemvalue="Application.Exercise5_10" />
-        <item itemvalue="Application.Exercise5_9" />
+        <item itemvalue="Application.Exercise6_24" />
+        <item itemvalue="Application.Exercise6_23" />
+        <item itemvalue="Application.Exercise6_22" />
+        <item itemvalue="Application.Exercise6_21" />
+        <item itemvalue="Application.Exercise6_20" />
       </list>
     </recent_temporary>
   </component>
