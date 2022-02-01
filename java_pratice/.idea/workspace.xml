@@ -33,13 +33,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Exercise4_15">
-    <configuration name="Exercise4_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4_if_for.Exercise4_11" />
+  <component name="RunManager" selected="Application.Exercise5_13">
+    <configuration name="Exercise5_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5_array.Exercise5_10" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4_if_for.*" />
+          <option name="PATTERN" value="chapter5_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,12 +47,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise4_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4_if_for.Exercise4_12" />
+    <configuration name="Exercise5_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5_array.Exercise5_11" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4_if_for.*" />
+          <option name="PATTERN" value="chapter5_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise4_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4_if_for.Exercise4_13" />
+    <configuration name="Exercise5_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5_array.Exercise5_12" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4_if_for.*" />
+          <option name="PATTERN" value="chapter5_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise4_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4_if_for.Exercise4_14" />
+    <configuration name="Exercise5_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5_array.Exercise5_13" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4_if_for.*" />
+          <option name="PATTERN" value="chapter5_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise4_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4_if_for.Exercise4_15" />
+    <configuration name="Exercise5_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5_array.Exercise5_9" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4_if_for.*" />
+          <option name="PATTERN" value="chapter5_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise4_15" />
-        <item itemvalue="Application.Exercise4_14" />
-        <item itemvalue="Application.Exercise4_13" />
-        <item itemvalue="Application.Exercise4_12" />
-        <item itemvalue="Application.Exercise4_11" />
+        <item itemvalue="Application.Exercise5_13" />
+        <item itemvalue="Application.Exercise5_12" />
+        <item itemvalue="Application.Exercise5_11" />
+        <item itemvalue="Application.Exercise5_10" />
+        <item itemvalue="Application.Exercise5_9" />
       </list>
     </recent_temporary>
   </component>
