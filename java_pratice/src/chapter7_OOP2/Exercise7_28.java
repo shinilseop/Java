@@ -10,7 +10,7 @@ public class Exercise7_28 {
             public void windowClosing(WindowEvent e) {
                 e.getWindow().setVisible(false);
                 e.getWindow().dispose();
-                System.exit();
+                System.exit(0);
             }
         });
     }
