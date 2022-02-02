@@ -64,13 +64,13 @@
       <command value="Exercise7_19" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise8_10">
-    <configuration name="Exercise8_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8_exception.Exercise8_10" />
+  <component name="RunManager" selected="Application.Exercise9_14">
+    <configuration name="Exercise9_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9_lang_utils.Exercise9_10" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter8_exception.*" />
+          <option name="PATTERN" value="chapter9_lang_utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise8_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8_exception.Exercise8_6" />
+    <configuration name="Exercise9_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9_lang_utils.Exercise9_11" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter8_exception.*" />
+          <option name="PATTERN" value="chapter9_lang_utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise8_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8_exception.Exercise8_7" />
+    <configuration name="Exercise9_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9_lang_utils.Exercise9_12" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter8_exception.*" />
+          <option name="PATTERN" value="chapter9_lang_utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise8_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8_exception.Exercise8_8" />
+    <configuration name="Exercise9_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9_lang_utils.Exercise9_13" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter8_exception.*" />
+          <option name="PATTERN" value="chapter9_lang_utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise8_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8_exception.Exercise8_9" />
+    <configuration name="Exercise9_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9_lang_utils.Exercise9_14" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter8_exception.*" />
+          <option name="PATTERN" value="chapter9_lang_utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise8_10" />
-        <item itemvalue="Application.Exercise8_9" />
-        <item itemvalue="Application.Exercise8_8" />
-        <item itemvalue="Application.Exercise8_7" />
-        <item itemvalue="Application.Exercise8_6" />
+        <item itemvalue="Application.Exercise9_14" />
+        <item itemvalue="Application.Exercise9_13" />
+        <item itemvalue="Application.Exercise9_12" />
+        <item itemvalue="Application.Exercise9_11" />
+        <item itemvalue="Application.Exercise9_10" />
       </list>
     </recent_temporary>
   </component>
