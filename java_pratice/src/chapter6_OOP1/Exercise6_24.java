@@ -15,5 +15,6 @@ public class Exercise6_24 {
         System.out.println(value + "의 절대값:" + abs(value));
         value = -10;
         System.out.println(value + "의 절대값:" + abs(value));
+
     }
 }

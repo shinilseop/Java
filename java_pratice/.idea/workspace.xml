@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarksViewState">
+    <option name="rewriteBookmarkType" value="true" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c960c4c0-4e09-4a75-a6b9-4f026e655a30" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +46,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -56,15 +59,18 @@
       <command value="Exercise6_1" />
       <command value="Exercise6_2" />
       <command value="Exercise6_4" />
+      <command value="Exercise7_!" />
+      <command value="Exercise7_1" />
+      <command value="Exercise7_19" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise6_24">
-    <configuration name="Exercise6_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter6_OOP1.Exercise6_20" />
+  <component name="RunManager" selected="Application.Exercise7_27">
+    <configuration name="Exercise7_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_OOP2.Exercise7_20" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter6_OOP1.*" />
+          <option name="PATTERN" value="chapter7_OOP2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise6_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter6_OOP1.Exercise6_21" />
+    <configuration name="Exercise7_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_OOP2.Exercise7_23" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter6_OOP1.*" />
+          <option name="PATTERN" value="chapter7_OOP2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise6_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter6_OOP1.Exercise6_22" />
+    <configuration name="Exercise7_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_OOP2.Exercise7_25" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter6_OOP1.*" />
+          <option name="PATTERN" value="chapter7_OOP2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise6_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter6_OOP1.Exercise6_23" />
+    <configuration name="Exercise7_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_OOP2.Exercise7_26" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter6_OOP1.*" />
+          <option name="PATTERN" value="chapter7_OOP2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise6_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter6_OOP1.Exercise6_24" />
+    <configuration name="Exercise7_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_OOP2.Exercise7_27" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter6_OOP1.*" />
+          <option name="PATTERN" value="chapter7_OOP2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise6_24" />
-        <item itemvalue="Application.Exercise6_23" />
-        <item itemvalue="Application.Exercise6_22" />
-        <item itemvalue="Application.Exercise6_21" />
-        <item itemvalue="Application.Exercise6_20" />
+        <item itemvalue="Application.Exercise7_27" />
+        <item itemvalue="Application.Exercise7_26" />
+        <item itemvalue="Application.Exercise7_25" />
+        <item itemvalue="Application.Exercise7_23" />
+        <item itemvalue="Application.Exercise7_20" />
       </list>
     </recent_temporary>
   </component>
@@ -158,5 +164,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
