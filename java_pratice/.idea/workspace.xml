@@ -65,13 +65,13 @@
       <command value="Test" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise10_8">
-    <configuration name="Exercise10_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10_datetime.Exercise10_5" />
+  <component name="RunManager" selected="Application.Exercise11_14">
+    <configuration name="Exercise11_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11_collection.Exercise11_11" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10_datetime.*" />
+          <option name="PATTERN" value="chapter11_collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise10_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10_datetime.Exercise10_6" />
+    <configuration name="Exercise11_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11_collection.Exercise11_12" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10_datetime.*" />
+          <option name="PATTERN" value="chapter11_collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise10_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10_datetime.Exercise10_7" />
+    <configuration name="Exercise11_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11_collection.Exercise11_13" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10_datetime.*" />
+          <option name="PATTERN" value="chapter11_collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise10_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10_datetime.Exercise10_8" />
+    <configuration name="Exercise11_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11_collection.Exercise11_14" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10_datetime.*" />
+          <option name="PATTERN" value="chapter11_collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10_datetime.Test" />
+      <option name="MAIN_CLASS_NAME" value="chapter11_collection.Test" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10_datetime.*" />
+          <option name="PATTERN" value="chapter11_collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise10_8" />
-        <item itemvalue="Application.Exercise10_7" />
-        <item itemvalue="Application.Exercise10_6" />
-        <item itemvalue="Application.Exercise10_5" />
+        <item itemvalue="Application.Exercise11_14" />
+        <item itemvalue="Application.Exercise11_13" />
+        <item itemvalue="Application.Exercise11_12" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Exercise11_11" />
       </list>
     </recent_temporary>
   </component>
