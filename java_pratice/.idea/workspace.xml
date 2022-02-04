@@ -62,15 +62,16 @@
       <command value="Exercise7_!" />
       <command value="Exercise7_1" />
       <command value="Exercise7_19" />
+      <command value="Test" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise9_14">
-    <configuration name="Exercise9_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter9_lang_utils.Exercise9_10" />
+  <component name="RunManager" selected="Application.Exercise10_8">
+    <configuration name="Exercise10_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10_datetime.Exercise10_5" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter9_lang_utils.*" />
+          <option name="PATTERN" value="chapter10_datetime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise9_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter9_lang_utils.Exercise9_11" />
+    <configuration name="Exercise10_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10_datetime.Exercise10_6" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter9_lang_utils.*" />
+          <option name="PATTERN" value="chapter10_datetime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise9_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter9_lang_utils.Exercise9_12" />
+    <configuration name="Exercise10_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10_datetime.Exercise10_7" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter9_lang_utils.*" />
+          <option name="PATTERN" value="chapter10_datetime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise9_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter9_lang_utils.Exercise9_13" />
+    <configuration name="Exercise10_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10_datetime.Exercise10_8" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter9_lang_utils.*" />
+          <option name="PATTERN" value="chapter10_datetime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise9_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter9_lang_utils.Exercise9_14" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10_datetime.Test" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter9_lang_utils.*" />
+          <option name="PATTERN" value="chapter10_datetime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise9_14" />
-        <item itemvalue="Application.Exercise9_13" />
-        <item itemvalue="Application.Exercise9_12" />
-        <item itemvalue="Application.Exercise9_11" />
-        <item itemvalue="Application.Exercise9_10" />
+        <item itemvalue="Application.Exercise10_8" />
+        <item itemvalue="Application.Exercise10_7" />
+        <item itemvalue="Application.Exercise10_6" />
+        <item itemvalue="Application.Exercise10_5" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
