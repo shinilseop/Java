@@ -65,20 +65,7 @@
       <command value="Test" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise11_14">
-    <configuration name="Exercise11_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11_collection.Exercise11_11" />
-      <module name="java_pratice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter11_collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercise12_5">
     <configuration name="Exercise11_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter11_collection.Exercise11_12" />
       <module name="java_pratice" />
@@ -118,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise12_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12_gener_enum_anno.Exercise12_5" />
+      <module name="java_pratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter12_gener_enum_anno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter11_collection.Test" />
       <module name="java_pratice" />
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise12_5" />
         <item itemvalue="Application.Exercise11_14" />
         <item itemvalue="Application.Exercise11_13" />
         <item itemvalue="Application.Exercise11_12" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Exercise11_11" />
       </list>
     </recent_temporary>
   </component>
