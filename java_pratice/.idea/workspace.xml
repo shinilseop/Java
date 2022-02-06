@@ -75,13 +75,26 @@
       <command value="Exercise15_6" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise15_9">
-    <configuration name="Exercise15_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter15_IO.Exercise15_5" />
+  <component name="RunManager" selected="Application.ChatClient">
+    <configuration name="ChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16_network.ChatClient" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter15_IO.*" />
+          <option name="PATTERN" value="chapter16_network.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16_network.ChatServer" />
+      <module name="java_pratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter16_network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exericse15_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter15_IO.Exericse15_6" />
+    <configuration name="Exercise16_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16_network.Exercise16_1" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter15_IO.*" />
+          <option name="PATTERN" value="chapter16_network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,25 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exericse15_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter15_IO.Exericse15_7" />
+    <configuration name="Exercise16_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16_network.Exercise16_3" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter15_IO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exericse15_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter15_IO.Exericse15_8" />
-      <module name="java_pratice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter15_IO.*" />
+          <option name="PATTERN" value="chapter16_network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChatClient" />
+        <item itemvalue="Application.ChatServer" />
+        <item itemvalue="Application.Exercise16_3" />
+        <item itemvalue="Application.Exercise16_1" />
         <item itemvalue="Application.Exercise15_9" />
-        <item itemvalue="Application.Exericse15_8" />
-        <item itemvalue="Application.Exericse15_7" />
-        <item itemvalue="Application.Exericse15_6" />
-        <item itemvalue="Application.Exercise15_5" />
       </list>
     </recent_temporary>
   </component>
