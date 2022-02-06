@@ -1,8 +1,8 @@
 package chapter12_gener_enum_anno;
 
 public class Card {
-    enum Kind {CLOVER, HEART, DIAMOND, SPADE}
-    enum Number {
+    public enum Kind {CLOVER, HEART, DIAMOND, SPADE}
+    public enum Number {
         ACE, TWO, THREE, FOUR, FIVE,
         SIX, SEVEN, EIGHT, NINE, TEN,
         JACK, QUEEN, KING

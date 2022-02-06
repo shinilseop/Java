@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Worksheet" />
         <option value="Class" />
       </list>
     </option>
@@ -49,6 +50,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\내 드라이브\Study\Java\java_pratice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\내 드라이브\Study\Java\java_pratice" />
+      <recent name="G:\내 드라이브\Study\Java\java_pratice\src" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="chapter6_OOP1" />
     </key>
@@ -63,15 +71,17 @@
       <command value="Exercise7_1" />
       <command value="Exercise7_19" />
       <command value="Test" />
+      <command value="Exercise15_5" />
+      <command value="Exercise15_6" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise12_5">
-    <configuration name="Exercise11_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11_collection.Exercise11_12" />
+  <component name="RunManager" selected="Application.Exercise15_9">
+    <configuration name="Exercise15_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter15_IO.Exercise15_5" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter11_collection.*" />
+          <option name="PATTERN" value="chapter15_IO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise11_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11_collection.Exercise11_13" />
+    <configuration name="Exercise15_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter15_IO.Exercise15_9" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter11_collection.*" />
+          <option name="PATTERN" value="chapter15_IO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise11_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11_collection.Exercise11_14" />
+    <configuration name="Exericse15_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter15_IO.Exericse15_6" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter11_collection.*" />
+          <option name="PATTERN" value="chapter15_IO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise12_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter12_gener_enum_anno.Exercise12_5" />
+    <configuration name="Exericse15_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter15_IO.Exericse15_7" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter12_gener_enum_anno.*" />
+          <option name="PATTERN" value="chapter15_IO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11_collection.Test" />
+    <configuration name="Exericse15_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter15_IO.Exericse15_8" />
       <module name="java_pratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter11_collection.*" />
+          <option name="PATTERN" value="chapter15_IO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise12_5" />
-        <item itemvalue="Application.Exercise11_14" />
-        <item itemvalue="Application.Exercise11_13" />
-        <item itemvalue="Application.Exercise11_12" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Exercise15_9" />
+        <item itemvalue="Application.Exericse15_8" />
+        <item itemvalue="Application.Exericse15_7" />
+        <item itemvalue="Application.Exericse15_6" />
+        <item itemvalue="Application.Exercise15_5" />
       </list>
     </recent_temporary>
   </component>
